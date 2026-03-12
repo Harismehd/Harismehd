@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=FastAPI+Developer;PHP+Backend+Developer;Flutter+App+Developer;Cybersecurity+Content+Creator;Building+Real+World+Projects&center=true&width=500&height=50">
+</p>
 # Hi 👋 I'm Haris Awan
 
 💻 Computer Science Student | Developer | Tech Creator
@@ -96,3 +99,8 @@ Multiple websites designed for gyms including:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harismehd&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Harismehd&theme=tokyonight)
+
+
+---
+
+![](https://komarev.com/ghpvc/?username=Harismehd&color=blue)
