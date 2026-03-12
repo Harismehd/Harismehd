@@ -77,6 +77,7 @@ Multiple websites designed for gyms including:
 
 ## 📈 Current Goals
 
+
 - Building impactful software projects
 - Expanding knowledge in **Cybersecurity**
 - Creating educational tech content
@@ -85,3 +86,13 @@ Multiple websites designed for gyms including:
 ---
 
 ⭐ Follow my journey as I build software and share knowledge.
+
+---
+
+## 📊 GitHub Stats
+
+![Haris GitHub stats](https://github-readme-stats.vercel.app/api?username=Harismehd&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harismehd&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Harismehd&theme=tokyonight)
