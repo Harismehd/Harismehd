@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 Professional Profile
+## Profile
 
 Computer Science graduate with proven expertise in designing and deploying production-grade applications. Specialized in full-stack development with focus on backend architecture, system design, and real-world SaaS implementations. Track record of building payment systems, automation platforms, and user authentication solutions used by active user bases.
 
