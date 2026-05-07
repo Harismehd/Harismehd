@@ -30,86 +30,17 @@ I am a Full-stack developer with a passion for deploying production applications
 ---
 
 ## 💼 Technical Stack
+## 🛠️ Technical Skills
 
-<table>
-    ### AI & ML
-```
-🔹 LightGBM
-🔹 Scikit-learn
-🔹FastAPI
-🔹 Pyodide
-```
+| Category | Technologies |
+|:---------|:-------------|
+| **AI & ML** | `LightGBM` `Scikit-learn` `FastAPI` `Pyodide` |
+| **Backend Development** | `FastAPI (Python)` [Advanced] • `Node.js / Express` [Intermediate] • `PHP` [Advanced] • `RESTful APIs` [Advanced] • `Microservices Architecture` [Intermediate] |
+| **Frontend & Mobile** | `React.js` [Advanced] • `Flutter` [Advanced] • `HTML5 / CSS3 / JavaScript` [Expert] • `Responsive Design` [Advanced] • `State Management` [Intermediate] |
+| **Database & Storage** | `SQL (MySQL, PostgreSQL)` [Advanced] • `Supabase` [Advanced] • `Redis (Caching)` [Intermediate] • `Database Optimization` [Advanced] • `Query Performance Tuning` [Intermediate] |
+| **DevOps & Deployment** | `Vercel` [Advanced] • `Docker` [Intermediate] • `Git / GitHub` [Expert] • `CI/CD Pipelines` [Intermediate] • `Cloud Architecture` [Intermediate] |
+| **Specialized Skills** | `WhatsApp API & Baileys Integration` • `Payment System Design (Stripe, PayPal)` • `Referral Logic & Incentive Systems` • `Discount & Promotion Engines` • `User Authentication & Authorization` • `Real-Time Data Processing` • `API Rate Limiting & Throttling` • `Error Handling & Logging` |
 
-</td>
-<td width="50%">
-
-    
-<tr>
-<td width="50%">
-
-### Backend Development
-```
-🔹 FastAPI (Python)          [Advanced]
-🔹 Node.js / Express         [Intermediate]
-🔹 PHP                       [Advanced]
-🔹 RESTful APIs              [Advanced]
-🔹 Microservices Architecture [Intermediate]
-```
-
-</td>
-<td width="50%">
-
-### Frontend & Mobile
-```
-🔹 React.js                  [Advanced]
-🔹 Flutter                   [Advanced]
-🔹 HTML5 / CSS3 / JavaScript [Expert]
-🔹 Responsive Design         [Advanced]
-🔹 State Management          [Intermediate]
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-    
-### Database & Storage
-```
-🔹 SQL (MySQL, PostgreSQL)   [Advanced]
-🔹 Supabase (PostgreSQL+Auth)[Advanced]
-🔹 Redis (Caching)           [Intermediate]
-🔹 Database Optimization     [Advanced]
-🔹 Query Performance Tuning  [Intermediate]
-```
-
-</td>
-<td width="50%">
-
-### DevOps & Deployment
-```
-🔹 Vercel                    [Advanced]
-🔹 Docker                    [Intermediate]
-🔹 Git / GitHub              [Expert]
-🔹 CI/CD Pipelines           [Intermediate]
-🔹 Cloud Architecture        [Intermediate]
-```
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### Specialized Skills
-```
-🔹 WhatsApp API & Baileys Integration    🔹 Payment System Design (Stripe, PayPal)
-🔹 Referral Logic & Incentive Systems    🔹 Discount & Promotion Engines
-🔹 User Authentication & Authorization   🔹 Real-Time Data Processing
-🔹 API Rate Limiting & Throttling        🔹 Error Handling & Logging
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
