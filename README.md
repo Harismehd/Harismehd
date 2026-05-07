@@ -16,7 +16,7 @@
 
 ## Profile
 
-Computer Science graduate with proven expertise in designing and deploying production-grade applications. Specialized in full-stack development with focus on backend architecture, system design, and real-world SaaS implementations. Track record of building payment systems, automation platforms, and user authentication solutions used by active user bases.
+I am a Full-stack developer with a passion for deploying production applications, including multi-tenant SaaS and real-time communication platforms. I focus on clean architecture and performance, while continually striving to enhance my skills in ML and AI. My expertise spans across a variety of languages and tools, empowering me to ship fast and effectively. I take pride in my ability to work independently and deliver high-quality solutions
 
 ### Key Competencies
 - 🏗️ **Full-Stack SaaS Architecture** - End-to-end system design from database to deployment
@@ -25,6 +25,7 @@ Computer Science graduate with proven expertise in designing and deploying produ
 - ⚙️ **System Design & Optimization** - High-performance databases, caching, API architecture
 - 🤖 **Automation Engineering** - WhatsApp API integration, business process automation
 - 📊 **Real Business Logic** - Referral systems, discount engines, payment reconciliation
+- 🤖 **AI/ML models training** - Cognis — a 6-model LightGBM ensemble for real-time Python error diagnosis
 
 ---
 
@@ -59,7 +60,16 @@ Computer Science graduate with proven expertise in designing and deploying produ
 </tr>
 <tr>
 <td width="50%">
+### Database & Storage
+```
+🔹 LightGBM
+🔹 Scikit-learn
+🔹FastAPI
+🔹 Pyodide
+```
 
+</td>
+<td width="50%">
 ### Database & Storage
 ```
 🔹 SQL (MySQL, PostgreSQL)   [Advanced]
@@ -121,8 +131,31 @@ An advanced educational platform that transforms how students understand mathema
 **Stack:** Flutter (Mobile) | Python (AST Engine) | SQL Database
 
 ---
+2. Cognis - Real-Time ML Diagnostic Engine
+Production ML Inference System
 
-### 2. Nexora - Complete SaaS Platform
+Technologies: Python, LightGBM, FastAPI, scikit-learn, NumPy
+
+A purpose-built ML inference engine that diagnoses Python misconceptions in real-time and generates Socratic guidance — all in under 200ms. Deployed behind Logic Lens IDE.
+
+Key Features:
+
+🧠 6-Model LightGBM Ensemble – Specialized models for risk scoring, error classification (21 types), intervention strategy, mentor tone, and next-action prediction
+
+🎯 Perfect Critical-Pair Discrimination – Zero misclassification on 8 most commonly confused error pairs (missing_colon vs indentation_error, etc.)
+
+🌡️ Calibrated Confidence Scoring – Isotonic calibration with 5-fold cross-validation; tooltips gate below 50% threshold
+
+⚡ <200ms End-to-End Latency – Model bundle loads once at startup; inference path is pure NumPy with no I/O
+
+👤 Student Archetype Personalization – Adapts tone and message strategy across 5 learner profiles (Careless Typist, Conceptual Struggler, etc.)
+
+Impact: 100% holdout accuracy across 21 error categories; 87,300 synthetic training examples; 0.0% false positive rate
+
+Stack: Python | LightGBM | FastAPI | NumPy | scikit-learn
+---
+
+### 3. Nexora - Complete SaaS Platform
 **Enterprise-Grade Full-Stack Application**
 
 *Technologies: Node.js/Express, React, Supabase, Stripe, Vercel, WhatsApp API*
@@ -161,7 +194,7 @@ External Services (Stripe, WhatsApp API)
 
 ---
 
-### 3. EmaanFit - Gym Management System
+### 4. EmaanFit - Gym Management System
 **Complete Business Management Platform**
 
 *Technologies: PHP, MySQL, HTML5/CSS3, Business Logic*
@@ -182,7 +215,7 @@ Full-featured gym management system for member tracking, workout planning, and f
 
 ---
 
-### 4. Lens Assist Pro - Premium Remote AR Support Tool
+### 5. Lens Assist Pro - Premium Remote AR Support Tool
 **Advanced WebRTC & AI-Powered Assistance Platform**
 
 *Technologies: Node.js/Express, WebRTC, Socket.io, Tesseract.js, Modern UI*
@@ -231,7 +264,7 @@ AI Processing (Tesseract.js OCR)
 
 ---
 
-### 5. Multiple Gym & Fitness Websites
+### 6. Multiple Gym & Fitness Websites
 **Professional Web Presence Solutions**
 
 Designed and deployed responsive websites for fitness businesses featuring:
@@ -338,24 +371,9 @@ I'm actively seeking:
 - 🏗️ **System Design Challenges** - Complex architectural problems
 - 👥 **Team Collaboration** - Open-source and commercial projects
 - 📚 **Mentorship Opportunities** - Guiding junior developers
+-- 🤖**AI/ML solutions** - Making world a better place
 
 **Interested in working together? Let's connect!**
-
----
-
-<div align="center">
-
-### ⚡ Quick Facts
-
-- 💾 Comfortable with large-scale databases (1M+ records)
-- 🔒 Implemented enterprise security standards
-- 📡 Built real-time systems with WebSocket support
-- 💰 Processed $1M+ in production payments
-- 🌍 Deployed systems serving global users
-- 📊 Proficient in performance monitoring and optimization
-- 🤝 Strong collaborator with cross-functional teams
-
-</div>
 
 ---
 
