@@ -32,6 +32,18 @@ I am a Full-stack developer with a passion for deploying production applications
 ## 💼 Technical Stack
 
 <table>
+    ### AI & ML
+```
+🔹 LightGBM
+🔹 Scikit-learn
+🔹FastAPI
+🔹 Pyodide
+```
+
+</td>
+<td width="50%">
+
+    
 <tr>
 <td width="50%">
 
@@ -60,16 +72,7 @@ I am a Full-stack developer with a passion for deploying production applications
 </tr>
 <tr>
 <td width="50%">
-### Database & Storage
-```
-🔹 LightGBM
-🔹 Scikit-learn
-🔹FastAPI
-🔹 Pyodide
-```
-
-</td>
-<td width="50%">
+    
 ### Database & Storage
 ```
 🔹 SQL (MySQL, PostgreSQL)   [Advanced]
