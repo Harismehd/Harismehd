@@ -65,7 +65,7 @@ An advanced educational platform that transforms how students understand mathema
 **Stack:** Flutter (Mobile) | Python (AST Engine) | SQL Database
 
 ---
-2. Cognis - Real-Time ML Diagnostic Engine
+### 2. Cognis - Real-Time ML Diagnostic Engine
 Production ML Inference System
 
 Technologies: Python, LightGBM, FastAPI, scikit-learn, NumPy
