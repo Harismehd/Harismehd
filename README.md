@@ -1,50 +1,50 @@
-&lt;!-- HEADER BANNER --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=HARIS%20AWAN&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20System%20Architect%20%7C%20SaaS%20Builder&descSize=18&descAlignY=55&animation=fadeIn" /&gt;
-&lt;/p&gt;
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=HARIS%20AWAN&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20System%20Architect%20%7C%20SaaS%20Builder&descSize=18&descAlignY=55&animation=fadeIn" />
+</p>
 
-&lt;!-- TYPING EFFECT --&gt;
-&lt;p align="center"&gt;
-  &lt;a href="https://github.com/Harismehd"&gt;
-    &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+enterprise-grade+applications;Architecting+scalable+SaaS+systems;Mentoring+developers+to+ship+faster" alt="Typing Animation" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<!-- TYPING EFFECT -->
+<p align="center">
+  <a href="https://github.com/Harismehd">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+enterprise-grade+applications;Architecting+scalable+SaaS+systems;Mentoring+developers+to+ship+faster" alt="Typing Animation" />
+  </a>
+</p>
 
-&lt;!-- SOCIAL LINKS BAR --&gt;
-&lt;p align="center"&gt;
-  &lt;a href="https://github.com/Harismehd"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://tiktok.com/@harismehd"&gt;
-    &lt;img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=00D9FF" alt="TikTok" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:Contact%20via%20GitHub"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<!-- SOCIAL LINKS BAR -->
+<p align="center">
+  <a href="https://github.com/Harismehd">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" />
+  </a>
+  <a href="https://tiktok.com/@harismehd">
+    <img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=00D9FF" alt="TikTok" />
+  </a>
+  <a href="mailto:Contact%20via%20GitHub">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" />
+  </a>
+</p>
 
-&lt;br&gt;
+<br>
 
-&lt;!-- PROFILE INTRO --&gt;
-&lt;div align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=Harismehd&color=00D9FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /&gt;
-&lt;/div&gt;
+<!-- PROFILE INTRO -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harismehd&color=00D9FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
-&lt;br&gt;
+<br>
 
 ---
 
 ## Profile
 
-&lt;p align="justify"&gt;
+<p align="justify">
 I am a Full-stack developer with a passion for deploying production applications, including multi-tenant SaaS and real-time communication platforms. I focus on clean architecture and performance, while delivering measurable business impact through innovative technical solutions.
-&lt;/p&gt;
+</p>
 
 ### Core Competencies
 
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td valign="top" width="50%"&gt;
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 **Architecture & Engineering**
 - End-to-end SaaS system design from database to deployment
@@ -61,8 +61,8 @@ I am a Full-stack developer with a passion for deploying production applications
 - Modern component systems and responsive design
 - Real-time applications with clean UI architecture
 
-    &lt;/td&gt;
-    &lt;td valign="top" width="50%"&gt;
+    </td>
+    <td valign="top" width="50%">
 
 **Current Focus**
 - Advanced System Design — distributed systems, microservices patterns
@@ -71,96 +71,96 @@ I am a Full-stack developer with a passion for deploying production applications
 - Machine Learning Integration — predictive analytics and personalization
 - Web3 & Blockchain — decentralized applications and smart contracts
 
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Technical Stack
 
-&lt;!-- SKILL BARS --&gt;
-&lt;p align="center"&gt;
+<!-- SKILL BARS -->
+<p align="center">
 
 **AI & ML**
-&lt;br&gt;
-&lt;img src="https://img.shields.io/badge/LightGBM-00D9FF?style=flat-square&logo=lightgbm&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Scikit--learn-00D9FF?style=flat-square&logo=scikit-learn&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/FastAPI-00D9FF?style=flat-square&logo=fastapi&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Pyodide-00D9FF?style=flat-square&logo=python&logoColor=white" /&gt;
+<br>
+<img src="https://img.shields.io/badge/LightGBM-00D9FF?style=flat-square&logo=lightgbm&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-00D9FF?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-00D9FF?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pyodide-00D9FF?style=flat-square&logo=python&logoColor=white" />
 
-&lt;br&gt;&lt;br&gt;
+<br><br>
 
 **Backend**
-&lt;br&gt;
-&lt;img src="https://img.shields.io/badge/FastAPI-00D9FF?style=flat-square&logo=fastapi&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Node.js-00D9FF?style=flat-square&logo=node.js&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Express-00D9FF?style=flat-square&logo=express&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/PHP-00D9FF?style=flat-square&logo=php&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/RESTful_APIs-00D9FF?style=flat-square&logo=postman&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Microservices-00D9FF?style=flat-square&logo=docker&logoColor=white" /&gt;
+<br>
+<img src="https://img.shields.io/badge/FastAPI-00D9FF?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-00D9FF?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-00D9FF?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-00D9FF?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/RESTful_APIs-00D9FF?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-00D9FF?style=flat-square&logo=docker&logoColor=white" />
 
-&lt;br&gt;&lt;br&gt;
+<br><br>
 
 **Frontend & Mobile**
-&lt;br&gt;
-&lt;img src="https://img.shields.io/badge/React.js-00D9FF?style=flat-square&logo=react&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Next.js-00D9FF?style=flat-square&logo=next.js&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Flutter-00D9FF?style=flat-square&logo=flutter&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/HTML5_/_CSS3_/_JS-00D9FF?style=flat-square&logo=javascript&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Vite-00D9FF?style=flat-square&logo=vite&logoColor=white" /&gt;
+<br>
+<img src="https://img.shields.io/badge/React.js-00D9FF?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-00D9FF?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-00D9FF?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5_/_CSS3_/_JS-00D9FF?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-00D9FF?style=flat-square&logo=vite&logoColor=white" />
 
-&lt;br&gt;&lt;br&gt;
+<br><br>
 
 **Database & Storage**
-&lt;br&gt;
-&lt;img src="https://img.shields.io/badge/PostgreSQL-00D9FF?style=flat-square&logo=postgresql&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/MySQL-00D9FF?style=flat-square&logo=mysql&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Supabase-00D9FF?style=flat-square&logo=supabase&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Redis-00D9FF?style=flat-square&logo=redis&logoColor=white" /&gt;
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-00D9FF?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00D9FF?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-00D9FF?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-00D9FF?style=flat-square&logo=redis&logoColor=white" />
 
-&lt;br&gt;&lt;br&gt;
+<br><br>
 
 **DevOps & Deployment**
-&lt;br&gt;
-&lt;img src="https://img.shields.io/badge/Vercel-00D9FF?style=flat-square&logo=vercel&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Docker-00D9FF?style=flat-square&logo=docker&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Git_/_GitHub-00D9FF?style=flat-square&logo=github&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/CI/CD-00D9FF?style=flat-square&logo=githubactions&logoColor=white" /&gt;
+<br>
+<img src="https://img.shields.io/badge/Vercel-00D9FF?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-00D9FF?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git_/_GitHub-00D9FF?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-00D9FF?style=flat-square&logo=githubactions&logoColor=white" />
 
-&lt;br&gt;&lt;br&gt;
+<br><br>
 
 **Testing & Quality**
-&lt;br&gt;
-&lt;img src="https://img.shields.io/badge/Vitest-00D9FF?style=flat-square&logo=vitest&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Playwright-00D9FF?style=flat-square&logo=playwright&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Jest-00D9FF?style=flat-square&logo=jest&logoColor=white" /&gt;
+<br>
+<img src="https://img.shields.io/badge/Vitest-00D9FF?style=flat-square&logo=vitest&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-00D9FF?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-00D9FF?style=flat-square&logo=jest&logoColor=white" />
 
-&lt;br&gt;&lt;br&gt;
+<br><br>
 
 **Data Visualization & Tools**
-&lt;br&gt;
-&lt;img src="https://img.shields.io/badge/Recharts-00D9FF?style=flat-square&logo=chart.js&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Leaflet-00D9FF?style=flat-square&logo=leaflet&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/jsPDF-00D9FF?style=flat-square&logo=javascript&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/TanStack_Query-00D9FF?style=flat-square&logo=reactquery&logoColor=white" /&gt;
+<br>
+<img src="https://img.shields.io/badge/Recharts-00D9FF?style=flat-square&logo=chart.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Leaflet-00D9FF?style=flat-square&logo=leaflet&logoColor=white" />
+<img src="https://img.shields.io/badge/jsPDF-00D9FF?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TanStack_Query-00D9FF?style=flat-square&logo=reactquery&logoColor=white" />
 
-&lt;br&gt;&lt;br&gt;
+<br><br>
 
 **Real-Time Communication**
-&lt;br&gt;
-&lt;img src="https://img.shields.io/badge/WebRTC-00D9FF?style=flat-square&logo=webrtc&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Socket.io-00D9FF?style=flat-square&logo=socket.io&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Tesseract.js-00D9FF?style=flat-square&logo=javascript&logoColor=white" /&gt;
+<br>
+<img src="https://img.shields.io/badge/WebRTC-00D9FF?style=flat-square&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-00D9FF?style=flat-square&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Tesseract.js-00D9FF?style=flat-square&logo=javascript&logoColor=white" />
 
-&lt;/p&gt;
+</p>
 
 ---
 
 ## Featured Projects
 
 ### 1. LogicLens — Interactive Mathematical Compiler Platform
-&gt; **Full-Stack Educational Application** | Flutter, Python, AST Compilation
+> **Full-Stack Educational Application** | Flutter, Python, AST Compilation
 
 An advanced educational platform that transforms how students understand mathematical logic and programming concepts.
 
@@ -176,7 +176,7 @@ An advanced educational platform that transforms how students understand mathema
 ---
 
 ### 2. Cognis — Real-Time ML Diagnostic Engine
-&gt; **Production ML Inference System** | Python, LightGBM, FastAPI, scikit-learn, NumPy
+> **Production ML Inference System** | Python, LightGBM, FastAPI, scikit-learn, NumPy
 
 A purpose-built ML inference engine that diagnoses Python misconceptions in real-time and generates Socratic guidance — all in under 200ms. Deployed behind LogicLens IDE.
 
@@ -184,7 +184,7 @@ A purpose-built ML inference engine that diagnoses Python misconceptions in real
 - 6-Model LightGBM Ensemble — specialized models for risk scoring, error classification (21 types), intervention strategy, mentor tone, and next-action prediction
 - Perfect Critical-Pair Discrimination — zero misclassification on 8 most commonly confused error pairs
 - Calibrated Confidence Scoring — isotonic calibration with 5-fold cross-validation
-- &lt;200ms End-to-End Latency — model bundle loads once at startup; inference path is pure NumPy with no I/O
+- <200ms End-to-End Latency — model bundle loads once at startup; inference path is pure NumPy with no I/O
 - Student Archetype Personalization — adapts tone and message strategy across 5 learner profiles
 
 **Impact:** 100% holdout accuracy across 21 error categories; 87,300 synthetic training examples; 0.0% false positive rate
@@ -192,11 +192,9 @@ A purpose-built ML inference engine that diagnoses Python misconceptions in real
 ---
 
 ### 3. Nexora — Complete SaaS Platform
-&gt; **Enterprise-Grade Full-Stack Application** | Node.js/Express, React, Supabase, Stripe, Vercel, WhatsApp API
+> **Enterprise-Grade Full-Stack Application** | Node.js/Express, React, Supabase, Stripe, Vercel, WhatsApp API
 
 Production SaaS platform implementing complete business logic and payment infrastructure.
-
-**System Architecture:**
 
 **Core Features:**
 - Payment Processing — integrated Stripe/PayPal with webhook handling
@@ -236,8 +234,6 @@ Full-featured gym management system for member tracking, workout planning, and f
 > **Advanced WebRTC & AI-Powered Assistance Platform** | Node.js/Express, WebRTC, Socket.io, Tesseract.js
 
 Enterprise-grade remote support solution leveraging real-time video streaming and artificial intelligence for seamless technical assistance.
-
-**Architecture Highlights:**
 
 **Revolutionary Features:**
 - AR Pointing System — real-time visual guidance with screen overlays for precise direction
