@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Design+Architect;Backend+Specialist;Mobile+App+Engineer;SaaS+Builder)](https://github.com/Harismehd)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Design+Architect;Scalable+SaaS+Builder)](https://github.com/Harismehd)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## Profile
 
-I am a Full-stack developer with a passion for deploying production applications, including multi-tenant SaaS and real-time communication platforms. I focus on clean architecture and performance, while continually striving to enhance my skills in ML and AI. My expertise spans across a variety of languages and tools, empowering me to ship fast and effectively. I take pride in my ability to work independently and deliver high-quality solutions
+I am a Full-stack developer with a passion for deploying production applications, including multi-tenant SaaS and real-time communication platforms. I focus on clean architecture and performance, while delivering measurable business impact through innovative technical solutions.
 
 ### Key Competencies
 - 🏗️ **Full-Stack SaaS Architecture** - End-to-end system design from database to deployment
@@ -26,6 +26,7 @@ I am a Full-stack developer with a passion for deploying production applications
 - 🤖 **Automation Engineering** - WhatsApp API integration, business process automation
 - 📊 **Real Business Logic** - Referral systems, discount engines, payment reconciliation
 - 🤖 **AI/ML models training** - Cognis — a 6-model LightGBM ensemble for real-time Python error diagnosis
+- 🎨 **Modern Frontend Architecture** - Component systems, responsive design, real-time applications
 
 ---
 
@@ -36,11 +37,14 @@ I am a Full-stack developer with a passion for deploying production applications
 |:---------|:-------------|
 | **AI & ML** | `LightGBM` `Scikit-learn` `FastAPI` `Pyodide` |
 | **Backend Development** | `FastAPI (Python)` [Advanced] • `Node.js / Express` [Intermediate] • `PHP` [Advanced] • `RESTful APIs` [Advanced] • `Microservices Architecture` [Intermediate] |
-| **Frontend & Mobile** | `React.js` [Advanced] • `Flutter` [Advanced] • `HTML5 / CSS3 / JavaScript` [Expert] • `Responsive Design` [Advanced] • `State Management` [Intermediate] |
-| **Database & Storage** | `SQL (MySQL, PostgreSQL)` [Advanced] • `Supabase` [Advanced] • `Redis (Caching)` [Intermediate] • `Database Optimization` [Advanced] • `Query Performance Tuning` [Intermediate] |
+| **Frontend & Mobile** | `React.js` [Advanced] • `Next.js` [Advanced] • `Flutter` [Advanced] • `HTML5 / CSS3 / JavaScript` [Expert] • `Responsive Design` [Advanced] • `State Management` [Intermediate] • `Vite` [Advanced] |
+| **UI Frameworks & Libraries** | `Shadcn UI` [Advanced] • `Radix UI` [Advanced] • `Framer Motion` [Advanced] • `Tailwind CSS` [Advanced] • `React Hook Form` [Advanced] |
+| **Database & Storage** | `SQL (MySQL, PostgreSQL)` [Advanced] • `Supabase` [Advanced] • `Redis (Caching)` [Intermediate] • `Database Optimization` [Advanced] • `Query Performance Tuning` [Advanced] |
 | **DevOps & Deployment** | `Vercel` [Advanced] • `Docker` [Intermediate] • `Git / GitHub` [Expert] • `CI/CD Pipelines` [Intermediate] • `Cloud Architecture` [Intermediate] |
-| **Specialized Skills** | `WhatsApp API & Baileys Integration` • `Payment System Design (Stripe, PayPal)` • `Referral Logic & Incentive Systems` • `Discount & Promotion Engines` • `User Authentication & Authorization` • `Real-Time Data Processing` • `API Rate Limiting & Throttling` • `Error Handling & Logging` |
-
+| **Testing & Quality** | `Vitest` • `Playwright` • `Testing Library` • `Jest` |
+| **Data Visualization & Tools** | `Recharts` [Advanced] • `Leaflet / React Leaflet` • `jsPDF` • `QR Code Generation` • `TanStack Query (React Query)` [Advanced] |
+| **Real-Time Communication** | `WebRTC` • `Socket.io` • `Tesseract.js (OCR)` • `Baileys (WhatsApp API)` |
+| **Specialized Skills** | `WhatsApp API & Baileys Integration` • `Payment System Design (Stripe, PayPal)` • `Referral Logic & Incentive Systems` • `Discount & Promotion Engines` • `User Authentication & JWT` • `Zustand (State Management)` |
 
 ---
 
@@ -66,27 +70,28 @@ An advanced educational platform that transforms how students understand mathema
 
 ---
 ### 2. Cognis - Real-Time ML Diagnostic Engine
-Production ML Inference System
+**Production ML Inference System**
 
-Technologies: Python, LightGBM, FastAPI, scikit-learn, NumPy
+*Technologies: Python, LightGBM, FastAPI, scikit-learn, NumPy*
 
 A purpose-built ML inference engine that diagnoses Python misconceptions in real-time and generates Socratic guidance — all in under 200ms. Deployed behind Logic Lens IDE.
 
-Key Features:
+**Key Features:**
 
-🧠 6-Model LightGBM Ensemble – Specialized models for risk scoring, error classification (21 types), intervention strategy, mentor tone, and next-action prediction
+🧠 **6-Model LightGBM Ensemble** – Specialized models for risk scoring, error classification (21 types), intervention strategy, mentor tone, and next-action prediction
 
-🎯 Perfect Critical-Pair Discrimination – Zero misclassification on 8 most commonly confused error pairs (missing_colon vs indentation_error, etc.)
+🎯 **Perfect Critical-Pair Discrimination** – Zero misclassification on 8 most commonly confused error pairs (missing_colon vs indentation_error, etc.)
 
-🌡️ Calibrated Confidence Scoring – Isotonic calibration with 5-fold cross-validation; tooltips gate below 50% threshold
+🌡️ **Calibrated Confidence Scoring** – Isotonic calibration with 5-fold cross-validation; tooltips gate below 50% threshold
 
-⚡ <200ms End-to-End Latency – Model bundle loads once at startup; inference path is pure NumPy with no I/O
+⚡ **<200ms End-to-End Latency** – Model bundle loads once at startup; inference path is pure NumPy with no I/O
 
-👤 Student Archetype Personalization – Adapts tone and message strategy across 5 learner profiles (Careless Typist, Conceptual Struggler, etc.)
+👤 **Student Archetype Personalization** – Adapts tone and message strategy across 5 learner profiles (Careless Typist, Conceptual Struggler, etc.)
 
-Impact: 100% holdout accuracy across 21 error categories; 87,300 synthetic training examples; 0.0% false positive rate
+**Impact:** 100% holdout accuracy across 21 error categories; 87,300 synthetic training examples; 0.0% false positive rate
 
-Stack: Python | LightGBM | FastAPI | NumPy | scikit-learn
+**Stack:** Python | LightGBM | FastAPI | NumPy | scikit-learn
+
 ---
 
 ### 3. Nexora - Complete SaaS Platform
@@ -198,7 +203,75 @@ AI Processing (Tesseract.js OCR)
 
 ---
 
-### 6. Multiple Gym & Fitness Websites
+### 6. CivicConnect - Civic Engagement Platform
+**Community & Government Interaction System**
+
+*Technologies: Next.js, TypeScript, Supabase, Leaflet, Shadcn UI, Framer Motion*
+
+Modern civic engagement platform enabling citizens to interact with government services and community initiatives.
+
+**Key Features:**
+- 🗺️ **Interactive Map Integration** - Leaflet-based geolocation and location-based services
+- 📄 **Document Management** - PDF generation with jsPDF for reports and permits
+- 📊 **Data Visualization** - Recharts for analytics and community statistics
+- 🎨 **QR Code Generation** - Dynamic QR codes for service tracking and access
+- 🔐 **Secure Authentication** - Supabase-powered user management
+- 📱 **Responsive Design** - Mobile-first approach with Shadcn UI components
+- ✨ **Smooth Animations** - Framer Motion for enhanced UX
+
+**Impact:** Bridging the gap between citizens and public services
+
+**Stack:** Next.js | TypeScript | Supabase | Leaflet | Recharts | Shadcn UI | Vercel
+
+---
+
+### 7. ForgeFit - Advanced Fitness Training Platform
+**Modern Next.js Fitness Application**
+
+*Technologies: Next.js, TypeScript, Supabase, TanStack Query, Zustand, Recharts*
+
+Comprehensive self-guided fitness training platform with real-time progress tracking and personalized recommendations.
+
+**Key Features:**
+- 🏋️ **Self-Guided Training Programs** - Customizable workout routines and plans
+- 📊 **Interactive Dashboards** - Real-time progress visualization with Recharts
+- 💪 **Performance Metrics** - Track workouts, sets, reps, and personal records
+- 🎯 **Goal Tracking** - Set and monitor fitness objectives
+- 🔐 **User Profiles** - Secure authentication with Supabase
+- 🎨 **Modern UI** - Radix UI components with Tailwind CSS
+- 📡 **Server State Management** - TanStack Query for efficient data fetching
+- 🌙 **Dark Mode Support** - Theme switching with next-themes
+
+**Impact:** Helping fitness enthusiasts achieve their training goals with intelligent tracking
+
+**Stack:** Next.js | TypeScript | Supabase | TanStack Query | Zustand | Recharts | Vercel
+
+---
+
+### 8. Haris Awan's Digital Canvas - Portfolio & Component Showcase
+**Design System & Portfolio Platform**
+
+*Technologies: Vite, React, TypeScript, Shadcn UI, Playwright, Vitest*
+
+Comprehensive portfolio and component library showcasing modern web design patterns and reusable UI components.
+
+**Key Features:**
+- 🎨 **Complete Component Library** - 40+ pre-built Shadcn UI components
+- 📚 **Component Documentation** - Detailed usage examples and props documentation
+- 🧪 **End-to-End Testing** - Playwright for comprehensive testing coverage
+- 🔍 **Unit Testing** - Vitest with Testing Library for component testing
+- 📱 **Responsive Design** - Mobile-first approach across all breakpoints
+- 🌙 **Dark Mode Support** - Theme switching capability
+- ⚡ **Vite Optimization** - Fast build times and optimized bundle sizes
+- 🎭 **Design Patterns** - Demonstrates modern React patterns and best practices
+
+**Impact:** Complete design system reference and testing showcase for modern web applications
+
+**Stack:** Vite | React | TypeScript | Shadcn UI | Radix UI | Playwright | Vitest | Testing Library
+
+---
+
+### 9. Multiple Gym & Fitness Websites
 **Professional Web Presence Solutions**
 
 Designed and deployed responsive websites for fitness businesses featuring:
@@ -239,7 +312,7 @@ Architecture → Design → Development → Testing → Deployment → Monitorin
 ```
 
 ### My Development Philosophy
-- **Test-Driven Development** - Comprehensive unit and integration tests
+- **Test-Driven Development** - Comprehensive unit and integration tests with Vitest and Playwright
 - **Clean Code** - SOLID principles, readable, maintainable code
 - **Performance First** - Optimization at every layer
 - **Security by Default** - OWASP compliance, encrypted data, secure auth
@@ -305,7 +378,7 @@ I'm actively seeking:
 - 🏗️ **System Design Challenges** - Complex architectural problems
 - 👥 **Team Collaboration** - Open-source and commercial projects
 - 📚 **Mentorship Opportunities** - Guiding junior developers
--- 🤖**AI/ML solutions** - Making world a better place
+- 🤖 **AI/ML solutions** - Making world a better place
 
 **Interested in working together? Let's connect!**
 
@@ -323,7 +396,7 @@ If my work interests you or you found this profile helpful:
 
 ---
 
-<sub>Last Updated: 2024 | Building the Future, One Line of Code at a Time</sub>
+<sub>Last Updated: 2026 | Building the Future, One Line of Code at a Time</sub>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Harismehd&color=00D9FF&style=for-the-badge)
 
