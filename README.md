@@ -37,7 +37,12 @@
 ## Profile
 
 <p align="justify">
-I am a Full-stack developer with a passion for deploying production applications, including multi-tenant SaaS and real-time communication platforms. I focus on clean architecture and performance, while delivering measurable business impact through innovative technical solutions.
+### ⚡ Haris Awan — Cybersecurity, Digital Forensics & Full-Stack Architect
+I’m an independent security engineer, software architect, and the **Founder & Sole Creator of [HM Studios](https://hmstudios.tech)**.
+- 🛡️ **What I Build:** Desktop-grade digital forensics suites, deep-sector Android & WhatsApp data recovery engines (**[HM DeepScan v1.0](https://hmstudios.tech/store)**), hardware-bound licensing systems, and AI-driven security tools.
+- 🔬 **Core Focus:** Android Internal Storage Acquisition • Crypt14 Decryption • Cyber Defense & Privacy Awareness (40K+ Community) • Full-Stack Engineering.
+- 🌐 **Official Command Center & Store:** [hmstudios.tech](https://hmstudios.tech)
+- 📬 **Contact / 1-on-1 Consultations:** [hmstudios.tech/book](https://hmstudios.tech/book) | `hmstudios.tech@gmail.com`
 </p>
 
 ### Core Competencies
